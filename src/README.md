@@ -1,3 +1,4 @@
+CS 55
 Problem: Shapes                                                                           
 
 Implement a program that manages shapes. Implement a class named Shape with a method area() which returns the double value 0.0. Implement three derived classes named Rectangle, Square, and Circle. Declare necessary properties in each including getter and setter function and a constructor that sets the values of these properties. Override the area() function in each by calculating the area using the defined properties in that class.
